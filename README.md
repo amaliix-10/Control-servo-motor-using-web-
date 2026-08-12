@@ -34,7 +34,7 @@ A real-time IoT control system built using the **WeMos D1 Mini ESP32** microcont
 
 | Component Pin | ESP32 Board Label | GPIO Mapping |
 | :--- | :--- | :--- |
-| **Servo Signal (Orange/Yellow)** | D18 | GPIO 18 |
+| **Servo Signal (Blue)** | D18 | GPIO 18 |
 | **Servo VCC (Red)** | 5V / VBUS | 5V |
 | **Servo GND (Black)** | GND | GND |
 | **Green LED (+ Anode via 220Ω)** | D2 | GPIO 2 |
