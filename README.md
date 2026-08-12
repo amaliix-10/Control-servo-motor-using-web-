@@ -55,4 +55,38 @@ A real-time IoT control system built using the **WeMos D1 Mini ESP32** microcont
 
 ---
 
+## How to Use
+
+### 1. Connect to Wi-Fi
+
+Open the Wi-Fi settings on your phone or computer and connect to:
+
+```text
+Network: ESP32_Control
+Password: 12345678Password
+```
+
+### 2. Access the Control Panel
+
+Open a web browser such as Chrome, Safari, or Firefox and navigate to:
+
+```text
+http://192.168.4.1
+```
+
+### 3. Control the Gate
+
+Use the web control panel to operate the gate:
+
+- Open — Moves the servo to 90° and turns on the green LED.
+- Close — Moves the servo to 0° and turns on the red LED.
+
+---
+
+## Result
+
+[Click here](https://drive.google.com/file/d/1kYc-BK10PMtaOhhRTrBGoMhBdif40hVS/view?usp=drive_link)
+
+---
+
 
